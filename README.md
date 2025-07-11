@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kate
 - 👀 I’m interested in IT future, travelling and good wine
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me - just write me
 
 
